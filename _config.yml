@@ -24,6 +24,7 @@ github_username:  demietranger
 author: Demie Tranger
 # Build settings
 markdown: kramdown
+hide_credits: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
