@@ -41,5 +41,5 @@ hide_credits: true
 plugins:
   - jekyll-paginate
 
-paginate: 11
+paginate: 3
 paginate_path: "/page/:num/"
