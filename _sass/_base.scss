@@ -86,6 +86,7 @@ hr {
   height: 0;
   @include divider;
   margin: 4em 0;
+  border-color: #ffffff;
 }
 
 img {
@@ -158,4 +159,22 @@ figcaption {
     border-color: $text-color;
     margin-top: 0;
   }
+}
+
+/* Center the button horizontally */
+.center-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  // text-align: center;
+  width: 100vh; /* Ensure the container takes full width */
+  margin: 0 auto;
+}
+
+/* Optionally, if you want to center it vertically as well */
+.center-button-vertical {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
