@@ -5,9 +5,9 @@ author: Demie Tranger
 categories: poem
 ---
 
-mid-workout, I space out towards the mirror in front of me.
+mid-workout, I space out toward the mirror in front of me.
 
-a woman enters my peripheral, but I'm staring at the space next to her by a very safe margin; phew.
+a woman enters my peripheral, but I'm staring at the space next to her by a safe margin; phew.
 
 an awkward moment circumvented, but I still want chocolate - 
 
@@ -39,9 +39,9 @@ i simultaneously heat my dinner and make my french press coffee.
 
 peak efficiency, like the scheduling algorithm for a multicore operating system -
 
-is what I think to myself while looking at the tens of utensils in the sink I used to make bloody oats.
+is what I think to myself gazing at the tens of utensils in the sink I used to make the bloody oats.
 
-not to mention the stains on the kitchen counter.
+not to mention the spillage stains on the kitchen counter.
 
 phone out, I look for the cheapest sweet item. 
 
