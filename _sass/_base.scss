@@ -168,7 +168,7 @@ figcaption {
   justify-content: center;
   align-items: center;
   // text-align: center;
-  width: 100vh; /* Ensure the container takes full width */
+  width: 100%; /* Ensure the container takes full width */
   margin: 0 auto;
 }
 
@@ -177,4 +177,14 @@ figcaption {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.inner-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  // text-align: center;
+  width: 100%; /* Ensure the container takes full width */
+  margin: 0 auto;
 }
